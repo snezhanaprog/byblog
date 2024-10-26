@@ -1,0 +1,9 @@
+django
+six
+celery
+mock
+
+flake8
+coverage
+tox
+twine
